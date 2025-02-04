@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hxbmw1juo-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/hxbmw1juo-go
